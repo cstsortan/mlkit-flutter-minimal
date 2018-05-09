@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1020542169120",
+    "firebase_url": "https://mlkit-35927.firebaseio.com",
+    "project_id": "mlkit-35927",
+    "storage_bucket": "mlkit-35927.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020542169120:android:c9f78a47d069b363",
+        "android_client_info": {
+          "package_name": "com.d4vinci.testmlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020542169120-s625s18c2u4uc20kkkslfc80kmlnipqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTeyOtz0ITChXUyvYYa99XqASfpThNS9M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
